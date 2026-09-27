@@ -32,7 +32,7 @@ latest_posts:
   }
 </style>
 
-I am a Ph.D. candidate in the Department of Computer Science at Florida State University, advised by [Dr. Xiaonan Zhang](https://www.cs.fsu.edu/~xzhang/). Before joining FSU, I received my M.Eng. from the University of Chinese Academy of Sciences and my B.Eng. from Dalian University of Technology. My research interests lie in reinforcement learning (RL), including reinforcement learning theory and robotic control.
+I am a Ph.D. candidate in the Department of Computer Science at Florida State University (FSU), advised by [Dr. Xiaonan Zhang](https://www.cs.fsu.edu/~xzhang/). Before joining FSU, I received my M.Eng. from the University of Chinese Academy of Sciences (UCAS) and my B.Eng. from Dalian University of Technology (DUT). My research interests lie in reinforcement learning (RL), including reinforcement learning theory and robotic control.
 
 <div class="contact-links" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1rem;">
   <a href="mailto:lz23b@fsu.edu"><i class="fa-solid fa-envelope"></i> Email</a>
