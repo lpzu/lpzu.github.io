@@ -6,11 +6,15 @@ nav: true
 nav_order: 2
 ---
 
-<!--
 ## Teaching
 
-- Teaching Assistant, COURSE-ID Course Name, Florida State University, Fall 2024
--->
+Teaching Assistant, Department of Computer Science, Florida State University
+
+- **Fall 2026:** CDA 3100 Computer Organization I
+- **Fall 2025:** CNT 4504/5505 Data/Computer Communications; CDA 3100 Computer Organization I
+- **Spring 2025:** CDA 3100 Computer Organization I
+- **Fall 2024:** CDA 3100 Computer Organization I
+- **Spring 2024:** CDA 3100 Computer Organization I
 
 ## Invited Talks
 
