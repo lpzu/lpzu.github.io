@@ -2,18 +2,13 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications in reverse chronological order.
 nav: true
 nav_order: 1
 ---
 
 <style>
-  .publications h2.bibliography { text-align: left; }
+  .publications h2.bibliography { text-align: left; color: var(--global-text-color); font-weight: 400; }
 </style>
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
 
 <div class="publications">
 
