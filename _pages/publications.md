@@ -7,7 +7,9 @@ nav: true
 nav_order: 1
 ---
 
-<!-- _pages/publications.md -->
+<style>
+  .publications h2.bibliography { text-align: left; }
+</style>
 
 <!-- Bibsearch Feature -->
 
