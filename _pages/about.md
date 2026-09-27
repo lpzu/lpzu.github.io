@@ -23,7 +23,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in the Department of Computer Science at Florida State University, advised by [Dr. Xiaonan Zhang](https://www.cs.fsu.edu/~xzhang/). Before joining FSU, I received my M.Eng. from the University of Chinese Academy of Sciences and my B.Eng. from Dalian University of Technology. My research interests lie in reinforcement learning, including reinforcement learning theory and robotic control.
+<style>
+  @media (min-width: 576px) {
+    .profile { width: 22%; margin-left: 2rem !important; }
+  }
+  @media (max-width: 575px) {
+    .profile { width: 60%; float: none !important; margin: 0 auto 1rem; }
+  }
+</style>
+
+I am a Ph.D. candidate in the Department of Computer Science at Florida State University, advised by [Dr. Xiaonan Zhang](https://www.cs.fsu.edu/~xzhang/). Before joining FSU, I received my M.Eng. from the University of Chinese Academy of Sciences and my B.Eng. from Dalian University of Technology. My research interests lie in reinforcement learning (RL), including reinforcement learning theory and robotic control.
 
 <div class="contact-links" style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-top: 1rem;">
   <a href="mailto:lz23b@fsu.edu"><i class="fa-solid fa-envelope"></i> Email</a>
@@ -31,4 +40,4 @@ I am a Ph.D. candidate in the Department of Computer Science at Florida State Un
   <a href="https://www.linkedin.com/in/lipeng-zu-61961b412"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
 </div>
 
-**Office:** 364 Love Building, Department of Computer Science, Florida State University, Tallahassee, FL 32306
+**Office:** 364 Love Building, 1017 Academic Way, Department of Computer Science, Florida State University, Tallahassee, FL 32304
