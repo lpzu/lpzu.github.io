@@ -12,11 +12,11 @@ nav_order: 2
 - Teaching Assistant, COURSE-ID Course Name, Florida State University, Fall 2024
 -->
 
-<!--
 ## Invited Talks
 
-- Talk Title, Venue / Event, City, Month Year
--->
+- Many thanks to Dr. Deng Cao for inviting me to give a workshop on **Reinforcement Learning** at the Intel Summer Internship Program, Department of Mathematics and Computer Science, Central State University, Wilberforce, OH, June 2026.
+
+  <img src="{{ '/assets/img/talks/csu-2026-rl-workshop.jpg' | relative_url }}" alt="Reinforcement Learning workshop at Central State University" style="max-width: 480px; width: 100%; border-radius: 4px; margin-top: 0.5rem;">
 
 ## Reviewer
 
