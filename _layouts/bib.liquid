@@ -24,7 +24,7 @@
             {% endif %}
           </abbr>
         {% else %}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
+          <abbr class="badge rounded w-100"{% if entry.type == 'article' %} style="background-color: #e08a3c"{% endif %}>{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
       {% if entry.preview %}
@@ -103,7 +103,7 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and {% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <em>
+          <em style="font-weight: 700">
             {{- author.first }}
             {{ author_last_html -}}
           </em>
