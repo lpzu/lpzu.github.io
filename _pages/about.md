@@ -8,6 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  more_info: |
+    <div style="margin-top: 1rem; max-width: 100%; overflow: hidden;">
+      <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=gyZs69T4K1iwifwfqaEjRYf6hkE3D0GTcLJZlnmYfz8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+    </div>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
