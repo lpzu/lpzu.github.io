@@ -24,6 +24,6 @@ Teaching Assistant, Department of Computer Science, Florida State University
 
 ## Reviewer
 
-**Conference Reviewer:** ICLR (2027), IEEE INFOCOM (2027, 2024), NeurIPS@RAAAI (2026), UAI (2026), ICLR@RSI (2026), IEEE CNS (2025), IEEE ICC (2024)
+**Conference Reviewer:** ICLR (2027), IEEE INFOCOM (2027, 2024), RAAAI@NeurIPS (2026), UAI (2026), RSI@ICLR (2026), IEEE CNS (2025), IEEE ICC (2024)
 
 **Journal Reviewer:** BMC Genomics, Computational and Structural Biotechnology Journal, IEEE Transactions on Consumer Electronics, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Mobile Computing, IEEE Wireless Communications Letters, The Journal of Supercomputing

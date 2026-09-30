@@ -2,7 +2,7 @@
 ---
 <div class="row">
   {% assign has_badge = false %}
-  {% if site.enable_publication_thumbnails %}{% if entry.abbr or entry.preview %}{% assign has_badge = true %}{% endif %}{% endif %}
+  {% if site.enable_publication_thumbnails %}{% if entry.abbr or entry.preview or entry.medal %}{% assign has_badge = true %}{% endif %}{% endif %}
   {% if has_badge %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
@@ -26,6 +26,17 @@
         {% else %}
           <abbr class="badge rounded w-100"{% if entry.type == 'article' %} style="background-color: #e08a3c"{% endif %}>{{ entry.abbr }}</abbr>
         {% endif %}
+      {% endif %}
+      {% if entry.medal %}
+        {% if entry.medal_type == 'nominee' %}
+          {% assign medal_color = '#9aa4ad' %}{% assign medal_icon = 'fa-award' %}
+        {% else %}
+          {% assign medal_color = '#d4a017' %}{% assign medal_icon = 'fa-medal' %}
+        {% endif %}
+        <div class="medal" style="text-align: center; font-size: 0.75rem; line-height: 1.2; color: {{ medal_color }}; font-weight: 600;">
+          <i class="fa-solid {{ medal_icon }}" style="font-size: 1.4rem; display: block; margin-bottom: 0.2rem;"></i>
+          {{ entry.medal }}
+        </div>
       {% endif %}
       {% if entry.preview %}
         {%- comment -%}
